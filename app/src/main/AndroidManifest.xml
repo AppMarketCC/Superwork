@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".Password_Found_Activity" />
+        <activity android:name=".PasswordChangeActivity" />
+        <activity android:name=".HomePageActivity"></activity>
     </application>
 
 </manifest>
